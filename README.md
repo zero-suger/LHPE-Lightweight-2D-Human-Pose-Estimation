@@ -1,17 +1,17 @@
 
 # LHPE-Lightweight-2D-Human-Pose-Estimation
 
-This repository is based on [Real-time 2D Multi-Person Pose Estimation on CPU: Lightweight OpenPose](https://arxiv.org/pdf/1811.12004.pdf)] paper. And also thanks to [ytai-chn](https://github.com/ytai-chn) to 2D Human Pose Implementation by using C++ code. 
+This repository is based on [Real-time 2D Multi-Person Pose Estimation on CPU: Lightweight OpenPose](https://arxiv.org/pdf/1811.12004.pdf) paper. And also thanks to [ytai-chn](https://github.com/ytai-chn) to 2D Human Pose Implementation by using C++ code. 
 
 ![PE_cover_img](https://github.com/user-attachments/assets/fb57041a-4a84-41b8-9059-587a0b404229)
 
-**What is different than [ytai-chn](https://github.com/ytai-chn) to 2D Human Pose Implementation code ?** 
+## What is different than [ytai-chn](https://github.com/ytai-chn) to 2D Human Pose Implementation code ?
 
  - OS Windows Implementation (windows 11 x64-based PC)
  - Quantized FLOAT16 ONNX model (7.8 MB) 
  - Reading IMAGES, VIDEOS and CAMERA to inference
 
-**How to use LHPE-Lightweight-2D-Human-Pose-Estimation?**
+## How to use LHPE-Lightweight-2D-Human-Pose-Estimation?
 
  - Clone the repository
  
