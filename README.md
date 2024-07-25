@@ -39,6 +39,6 @@ This repository is based on [Real-time 2D Multi-Person Pose Estimation on CPU: L
    -  **file type** : could be **image** , **video** or **camera** based on your file type
 
 
-**Note :** If you want to use ONNX quantized model, please build ONNXRUNTIME and make inference.
+## Note : If you want to use ONNX quantized model, please build ONNXRUNTIME and make inference.
 
 Thank you OpenPose and  [ytai-chn](https://github.com/ytai-chn) to such a hard  work. If you have questions, please contact with me uacoding01@gmail.com
