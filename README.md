@@ -1,4 +1,3 @@
-**
 
 # LHPE-Lightweight-2D-Human-Pose-Estimation
 
