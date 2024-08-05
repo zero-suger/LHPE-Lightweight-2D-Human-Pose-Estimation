@@ -1,4 +1,3 @@
-
 # LHPE-Lightweight-2D-Human-Pose-Estimation
 
 This repository is based on [Real-time 2D Multi-Person Pose Estimation on CPU: Lightweight OpenPose](https://arxiv.org/pdf/1811.12004.pdf) paper. And also thanks to [ytai-chn](https://github.com/ytai-chn) to 2D Human Pose Implementation by using C++ code. 
